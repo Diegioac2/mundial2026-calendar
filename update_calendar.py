@@ -8,7 +8,7 @@ BASE_URL = "https://v3.football.api-sports.io/fixtures"
 OUT = Path("docs/mundial2026.ics")
 
 LEAGUE_ID = 1
-SEASON = 2026
+SEASON = 2024
 TIMEZONE = "America/Guayaquil"
 
 
