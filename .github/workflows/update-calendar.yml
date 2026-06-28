@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add mundial2026.ics
+          git add docs/mundial2026.ics
           git commit -m "Actualizar calendario Mundial 2026" || echo "Sin cambios"
           git push
