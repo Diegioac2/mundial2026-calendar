@@ -60,6 +60,46 @@ def score_text(match):
     return None
 
 
+FLAGS = {
+    "Germany": "🇩🇪",
+    "Paraguay": "🇵🇾",
+    "France": "🇫🇷",
+    "Sweden": "🇸🇪",
+    "South Africa": "🇿🇦",
+    "Canada": "🇨🇦",
+    "Netherlands": "🇳🇱",
+    "Morocco": "🇲🇦",
+    "Portugal": "🇵🇹",
+    "Croatia": "🇭🇷",
+    "Spain": "🇪🇸",
+    "Austria": "🇦🇹",
+    "United States": "🇺🇸",
+    "Bosnia and Herzegovina": "🇧🇦",
+    "Belgium": "🇧🇪",
+    "Senegal": "🇸🇳",
+    "Brazil": "🇧🇷",
+    "Japan": "🇯🇵",
+    "Ivory Coast": "🇨🇮",
+    "Norway": "🇳🇴",
+    "Mexico": "🇲🇽",
+    "Ecuador": "🇪🇨",
+    "England": "🏴",
+    "DR Congo": "🇨🇩",
+    "Argentina": "🇦🇷",
+    "Cape Verde": "🇨🇻",
+    "Australia": "🇦🇺",
+    "Egypt": "🇪🇬",
+    "Switzerland": "🇨🇭",
+    "Algeria": "🇩🇿",
+    "Colombia": "🇨🇴",
+    "Ghana": "🇬🇭",
+}
+
+
+def flag(team):
+    return FLAGS.get(team, "🏳️")
+
+
 def build_event(match):
     num = match.get("num") or match.get("match") or match.get("id")
     round_name = match.get("round") or match.get("stage") or "Mundial 2026"
@@ -69,8 +109,16 @@ def build_event(match):
     team2 = team_name(match.get("team2"))
     score = score_text(match)
 
-    title = f"{team1} {score} {team2}" if score else f"{team1} vs {team2}"
-    summary = f"{title} · {round_name}"
+    team1_display = f"{flag(team1)} {team1}"
+    team2_display = f"{flag(team2)} {team2}"
+
+    title = (
+        f"{team1_display} {score} {team2_display}"
+        if score
+        else f"{team1_display} vs {team2_display}"
+    )
+
+    summary = f"🏆 {title}"
 
     dt_start = parse_datetime(match)
     if dt_start is None:
@@ -81,8 +129,12 @@ def build_event(match):
     start = dt_start.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     end = dt_end.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
+    ground = match.get("ground")
     stadium = match.get("stadium") or {}
-    if isinstance(stadium, dict):
+
+    if ground:
+        location = ground
+    elif isinstance(stadium, dict):
         location = ", ".join(x for x in [stadium.get("name"), stadium.get("city")] if x)
     else:
         location = stadium or ""
@@ -91,7 +143,7 @@ def build_event(match):
         f"Mundial 2026\\n"
         f"Fase: {round_name}\\n"
         f"Grupo: {group or '-'}\\n"
-        f"Partido: {team1} vs {team2}\\n"
+        f"Partido: {team1_display} vs {team2_display}\\n"
         f"Marcador: {score or 'Pendiente'}\\n"
         f"Fuente: openfootball/worldcup.json\\n"
         f"Actualizado automáticamente por GitHub Actions."
@@ -122,6 +174,7 @@ def extract_matches(data):
     if isinstance(data, dict):
         if "matches" in data:
             matches.extend(data["matches"])
+
         if "rounds" in data:
             for r in data["rounds"]:
                 for m in r.get("matches", []):
