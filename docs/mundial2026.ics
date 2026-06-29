@@ -1,11 +1,1571 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Diego//Mundial2026Auto//ES
+PRODID:-//Diego//Mundial2026OpenFootball//ES
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Mundial 2026 Auto
 X-WR-TIMEZONE:America/Guayaquil
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:Mexico 2-0 South Africa · Matchday 1
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 1\\nGrupo: Group A\\nPartido: Mexico vs South Africa\\nMarcador: 2-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Mexico 2-0 South Africa · Matchday 1
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260612T020000Z
+DTEND:20260612T040000Z
+SUMMARY:South Korea 2-1 Czech Republic · Matchday 1
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 1\\nGrupo: Group A\\nPartido: South Korea vs Czech Republic\\nMarcador: 2-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:South Korea 2-1 Czech Republic · Matchday 1
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+SUMMARY:Czech Republic 1-1 South Africa · Matchday 8
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 8\\nGrupo: Group A\\nPartido: Czech Republic vs South Africa\\nMarcador: 1-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Czech Republic 1-1 South Africa · Matchday 8
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260619T010000Z
+DTEND:20260619T030000Z
+SUMMARY:Mexico 1-0 South Korea · Matchday 8
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 8\\nGrupo: Group A\\nPartido: Mexico vs South Korea\\nMarcador: 1-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Mexico 1-0 South Korea · Matchday 8
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:Czech Republic 0-3 Mexico · Matchday 14
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 14\\nGrupo: Group A\\nPartido: Czech Republic vs Mexico\\nMarcador: 0-3\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Czech Republic 0-3 Mexico · Matchday 14
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:South Africa 1-0 South Korea · Matchday 14
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 14\\nGrupo: Group A\\nPartido: South Africa vs South Korea\\nMarcador: 1-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:South Africa 1-0 South Korea · Matchday 14
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260612T190000Z
+DTEND:20260612T210000Z
+SUMMARY:Canada 1-1 Bosnia & Herzegovina · Matchday 2
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 2\\nGrupo: Group B\\nPartido: Canada vs Bosnia & Herzegovina\\nMarcador: 1-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Canada 1-1 Bosnia & Herzegovina · Matchday 2
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:Qatar 1-1 Switzerland · Matchday 3
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 3\\nGrupo: Group B\\nPartido: Qatar vs Switzerland\\nMarcador: 1-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Qatar 1-1 Switzerland · Matchday 3
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260618T190000Z
+DTEND:20260618T210000Z
+SUMMARY:Switzerland 4-1 Bosnia & Herzegovina · Matchday 8
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 8\\nGrupo: Group B\\nPartido: Switzerland vs Bosnia & Herzegovina\\nMarcador: 4-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Switzerland 4-1 Bosnia & Herzegovina · Matchday 8
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260618T220000Z
+DTEND:20260619T000000Z
+SUMMARY:Canada 6-0 Qatar · Matchday 8
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 8\\nGrupo: Group B\\nPartido: Canada vs Qatar\\nMarcador: 6-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Canada 6-0 Qatar · Matchday 8
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:Switzerland 2-1 Canada · Matchday 14
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 14\\nGrupo: Group B\\nPartido: Switzerland vs Canada\\nMarcador: 2-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Switzerland 2-1 Canada · Matchday 14
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:Bosnia & Herzegovina 3-1 Qatar · Matchday 14
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 14\\nGrupo: Group B\\nPartido: Bosnia & Herzegovina vs Qatar\\nMarcador: 3-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Bosnia & Herzegovina 3-1 Qatar · Matchday 14
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:Brazil 1-1 Morocco · Matchday 3
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 3\\nGrupo: Group C\\nPartido: Brazil vs Morocco\\nMarcador: 1-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Brazil 1-1 Morocco · Matchday 3
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+SUMMARY:Haiti 0-1 Scotland · Matchday 3
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 3\\nGrupo: Group C\\nPartido: Haiti vs Scotland\\nMarcador: 0-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Haiti 0-1 Scotland · Matchday 3
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+SUMMARY:Scotland 0-1 Morocco · Matchday 9
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 9\\nGrupo: Group C\\nPartido: Scotland vs Morocco\\nMarcador: 0-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Scotland 0-1 Morocco · Matchday 9
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260620T003000Z
+DTEND:20260620T023000Z
+SUMMARY:Brazil 3-0 Haiti · Matchday 9
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 9\\nGrupo: Group C\\nPartido: Brazil vs Haiti\\nMarcador: 3-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Brazil 3-0 Haiti · Matchday 9
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:Scotland 0-3 Brazil · Matchday 14
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 14\\nGrupo: Group C\\nPartido: Scotland vs Brazil\\nMarcador: 0-3\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Scotland 0-3 Brazil · Matchday 14
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:Morocco 4-2 Haiti · Matchday 14
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 14\\nGrupo: Group C\\nPartido: Morocco vs Haiti\\nMarcador: 4-2\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Morocco 4-2 Haiti · Matchday 14
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260613T010000Z
+DTEND:20260613T030000Z
+SUMMARY:USA 4-1 Paraguay · Matchday 2
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 2\\nGrupo: Group D\\nPartido: USA vs Paraguay\\nMarcador: 4-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:USA 4-1 Paraguay · Matchday 2
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260614T040000Z
+DTEND:20260614T060000Z
+SUMMARY:Australia 2-0 Turkey · Matchday 3
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 3\\nGrupo: Group D\\nPartido: Australia vs Turkey\\nMarcador: 2-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Australia 2-0 Turkey · Matchday 3
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:USA 2-0 Australia · Matchday 9
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 9\\nGrupo: Group D\\nPartido: USA vs Australia\\nMarcador: 2-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:USA 2-0 Australia · Matchday 9
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260620T030000Z
+DTEND:20260620T050000Z
+SUMMARY:Turkey 0-1 Paraguay · Matchday 9
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 9\\nGrupo: Group D\\nPartido: Turkey vs Paraguay\\nMarcador: 0-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Turkey 0-1 Paraguay · Matchday 9
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:Turkey 3-2 USA · Matchday 15
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 15\\nGrupo: Group D\\nPartido: Turkey vs USA\\nMarcador: 3-2\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Turkey 3-2 USA · Matchday 15
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:Paraguay 0-0 Australia · Matchday 15
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 15\\nGrupo: Group D\\nPartido: Paraguay vs Australia\\nMarcador: 0-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Paraguay 0-0 Australia · Matchday 15
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260614T170000Z
+DTEND:20260614T190000Z
+SUMMARY:Germany 7-1 Curaçao · Matchday 4
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 4\\nGrupo: Group E\\nPartido: Germany vs Curaçao\\nMarcador: 7-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Germany 7-1 Curaçao · Matchday 4
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:Ivory Coast 1-0 Ecuador · Matchday 4
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 4\\nGrupo: Group E\\nPartido: Ivory Coast vs Ecuador\\nMarcador: 1-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Ivory Coast 1-0 Ecuador · Matchday 4
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260620T200000Z
+DTEND:20260620T220000Z
+SUMMARY:Germany 2-1 Ivory Coast · Matchday 10
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 10\\nGrupo: Group E\\nPartido: Germany vs Ivory Coast\\nMarcador: 2-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Germany 2-1 Ivory Coast · Matchday 10
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:Ecuador 0-0 Curaçao · Matchday 10
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 10\\nGrupo: Group E\\nPartido: Ecuador vs Curaçao\\nMarcador: 0-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Ecuador 0-0 Curaçao · Matchday 10
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:Curaçao 0-2 Ivory Coast · Matchday 15
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 15\\nGrupo: Group E\\nPartido: Curaçao vs Ivory Coast\\nMarcador: 0-2\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Curaçao 0-2 Ivory Coast · Matchday 15
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:Ecuador 2-1 Germany · Matchday 15
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 15\\nGrupo: Group E\\nPartido: Ecuador vs Germany\\nMarcador: 2-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Ecuador 2-1 Germany · Matchday 15
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260614T200000Z
+DTEND:20260614T220000Z
+SUMMARY:Netherlands 2-2 Japan · Matchday 4
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 4\\nGrupo: Group F\\nPartido: Netherlands vs Japan\\nMarcador: 2-2\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Netherlands 2-2 Japan · Matchday 4
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260615T020000Z
+DTEND:20260615T040000Z
+SUMMARY:Sweden 5-1 Tunisia · Matchday 4
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 4\\nGrupo: Group F\\nPartido: Sweden vs Tunisia\\nMarcador: 5-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Sweden 5-1 Tunisia · Matchday 4
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260620T170000Z
+DTEND:20260620T190000Z
+SUMMARY:Netherlands 5-1 Sweden · Matchday 10
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 10\\nGrupo: Group F\\nPartido: Netherlands vs Sweden\\nMarcador: 5-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Netherlands 5-1 Sweden · Matchday 10
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260621T040000Z
+DTEND:20260621T060000Z
+SUMMARY:Tunisia 0-4 Japan · Matchday 10
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 10\\nGrupo: Group F\\nPartido: Tunisia vs Japan\\nMarcador: 0-4\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Tunisia 0-4 Japan · Matchday 10
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:Japan 1-1 Sweden · Matchday 15
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 15\\nGrupo: Group F\\nPartido: Japan vs Sweden\\nMarcador: 1-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Japan 1-1 Sweden · Matchday 15
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:Tunisia 1-3 Netherlands · Matchday 15
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 15\\nGrupo: Group F\\nPartido: Tunisia vs Netherlands\\nMarcador: 1-3\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Tunisia 1-3 Netherlands · Matchday 15
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+SUMMARY:Belgium 1-1 Egypt · Matchday 5
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 5\\nGrupo: Group G\\nPartido: Belgium vs Egypt\\nMarcador: 1-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Belgium 1-1 Egypt · Matchday 5
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260616T010000Z
+DTEND:20260616T030000Z
+SUMMARY:Iran 2-2 New Zealand · Matchday 5
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 5\\nGrupo: Group G\\nPartido: Iran vs New Zealand\\nMarcador: 2-2\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Iran 2-2 New Zealand · Matchday 5
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260621T190000Z
+DTEND:20260621T210000Z
+SUMMARY:Belgium 0-0 Iran · Matchday 11
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 11\\nGrupo: Group G\\nPartido: Belgium vs Iran\\nMarcador: 0-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Belgium 0-0 Iran · Matchday 11
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260622T010000Z
+DTEND:20260622T030000Z
+SUMMARY:New Zealand 1-3 Egypt · Matchday 11
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 11\\nGrupo: Group G\\nPartido: New Zealand vs Egypt\\nMarcador: 1-3\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:New Zealand 1-3 Egypt · Matchday 11
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:Egypt 1-1 Iran · Matchday 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 16\\nGrupo: Group G\\nPartido: Egypt vs Iran\\nMarcador: 1-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Egypt 1-1 Iran · Matchday 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:New Zealand 1-5 Belgium · Matchday 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 16\\nGrupo: Group G\\nPartido: New Zealand vs Belgium\\nMarcador: 1-5\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:New Zealand 1-5 Belgium · Matchday 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260615T160000Z
+DTEND:20260615T180000Z
+SUMMARY:Spain 0-0 Cape Verde · Matchday 5
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 5\\nGrupo: Group H\\nPartido: Spain vs Cape Verde\\nMarcador: 0-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Spain 0-0 Cape Verde · Matchday 5
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260615T220000Z
+DTEND:20260616T000000Z
+SUMMARY:Saudi Arabia 1-1 Uruguay · Matchday 5
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 5\\nGrupo: Group H\\nPartido: Saudi Arabia vs Uruguay\\nMarcador: 1-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Saudi Arabia 1-1 Uruguay · Matchday 5
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260621T160000Z
+DTEND:20260621T180000Z
+SUMMARY:Spain 4-0 Saudi Arabia · Matchday 11
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 11\\nGrupo: Group H\\nPartido: Spain vs Saudi Arabia\\nMarcador: 4-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Spain 4-0 Saudi Arabia · Matchday 11
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260621T220000Z
+DTEND:20260622T000000Z
+SUMMARY:Uruguay 2-2 Cape Verde · Matchday 11
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 11\\nGrupo: Group H\\nPartido: Uruguay vs Cape Verde\\nMarcador: 2-2\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Uruguay 2-2 Cape Verde · Matchday 11
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:Cape Verde 0-0 Saudi Arabia · Matchday 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 16\\nGrupo: Group H\\nPartido: Cape Verde vs Saudi Arabia\\nMarcador: 0-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Cape Verde 0-0 Saudi Arabia · Matchday 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:Uruguay 0-1 Spain · Matchday 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 16\\nGrupo: Group H\\nPartido: Uruguay vs Spain\\nMarcador: 0-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Uruguay 0-1 Spain · Matchday 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+SUMMARY:France 3-1 Senegal · Matchday 6
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 6\\nGrupo: Group I\\nPartido: France vs Senegal\\nMarcador: 3-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:France 3-1 Senegal · Matchday 6
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260616T220000Z
+DTEND:20260617T000000Z
+SUMMARY:Iraq 1-4 Norway · Matchday 6
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 6\\nGrupo: Group I\\nPartido: Iraq vs Norway\\nMarcador: 1-4\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Iraq 1-4 Norway · Matchday 6
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260622T210000Z
+DTEND:20260622T230000Z
+SUMMARY:France 3-0 Iraq · Matchday 12
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 12\\nGrupo: Group I\\nPartido: France vs Iraq\\nMarcador: 3-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:France 3-0 Iraq · Matchday 12
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:Norway 3-2 Senegal · Matchday 12
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 12\\nGrupo: Group I\\nPartido: Norway vs Senegal\\nMarcador: 3-2\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Norway 3-2 Senegal · Matchday 12
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:Norway 1-4 France · Matchday 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 16\\nGrupo: Group I\\nPartido: Norway vs France\\nMarcador: 1-4\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Norway 1-4 France · Matchday 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:Senegal 5-0 Iraq · Matchday 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 16\\nGrupo: Group I\\nPartido: Senegal vs Iraq\\nMarcador: 5-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Senegal 5-0 Iraq · Matchday 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260617T010000Z
+DTEND:20260617T030000Z
+SUMMARY:Argentina 3-0 Algeria · Matchday 6
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 6\\nGrupo: Group J\\nPartido: Argentina vs Algeria\\nMarcador: 3-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Argentina 3-0 Algeria · Matchday 6
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260617T040000Z
+DTEND:20260617T060000Z
+SUMMARY:Austria 3-1 Jordan · Matchday 6
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 6\\nGrupo: Group J\\nPartido: Austria vs Jordan\\nMarcador: 3-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Austria 3-1 Jordan · Matchday 6
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260622T170000Z
+DTEND:20260622T190000Z
+SUMMARY:Argentina 2-0 Austria · Matchday 12
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 12\\nGrupo: Group J\\nPartido: Argentina vs Austria\\nMarcador: 2-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Argentina 2-0 Austria · Matchday 12
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260623T030000Z
+DTEND:20260623T050000Z
+SUMMARY:Jordan 1-2 Algeria · Matchday 12
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 12\\nGrupo: Group J\\nPartido: Jordan vs Algeria\\nMarcador: 1-2\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Jordan 1-2 Algeria · Matchday 12
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:Algeria 3-3 Austria · Matchday 17
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 17\\nGrupo: Group J\\nPartido: Algeria vs Austria\\nMarcador: 3-3\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Algeria 3-3 Austria · Matchday 17
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:Jordan 1-3 Argentina · Matchday 17
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 17\\nGrupo: Group J\\nPartido: Jordan vs Argentina\\nMarcador: 1-3\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Jordan 1-3 Argentina · Matchday 17
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260617T170000Z
+DTEND:20260617T190000Z
+SUMMARY:Portugal 1-1 DR Congo · Matchday 7
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 7\\nGrupo: Group K\\nPartido: Portugal vs DR Congo\\nMarcador: 1-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Portugal 1-1 DR Congo · Matchday 7
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260618T020000Z
+DTEND:20260618T040000Z
+SUMMARY:Uzbekistan 1-3 Colombia · Matchday 7
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 7\\nGrupo: Group K\\nPartido: Uzbekistan vs Colombia\\nMarcador: 1-3\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Uzbekistan 1-3 Colombia · Matchday 7
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260623T170000Z
+DTEND:20260623T190000Z
+SUMMARY:Portugal 5-0 Uzbekistan · Matchday 13
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 13\\nGrupo: Group K\\nPartido: Portugal vs Uzbekistan\\nMarcador: 5-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Portugal 5-0 Uzbekistan · Matchday 13
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260624T020000Z
+DTEND:20260624T040000Z
+SUMMARY:Colombia 1-0 DR Congo · Matchday 13
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 13\\nGrupo: Group K\\nPartido: Colombia vs DR Congo\\nMarcador: 1-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Colombia 1-0 DR Congo · Matchday 13
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:Colombia 0-0 Portugal · Matchday 17
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 17\\nGrupo: Group K\\nPartido: Colombia vs Portugal\\nMarcador: 0-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Colombia 0-0 Portugal · Matchday 17
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:DR Congo 3-1 Uzbekistan · Matchday 17
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 17\\nGrupo: Group K\\nPartido: DR Congo vs Uzbekistan\\nMarcador: 3-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:DR Congo 3-1 Uzbekistan · Matchday 17
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260617T200000Z
+DTEND:20260617T220000Z
+SUMMARY:England 4-2 Croatia · Matchday 7
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 7\\nGrupo: Group L\\nPartido: England vs Croatia\\nMarcador: 4-2\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:England 4-2 Croatia · Matchday 7
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:Ghana 1-0 Panama · Matchday 7
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 7\\nGrupo: Group L\\nPartido: Ghana vs Panama\\nMarcador: 1-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Ghana 1-0 Panama · Matchday 7
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260623T200000Z
+DTEND:20260623T220000Z
+SUMMARY:England 0-0 Ghana · Matchday 13
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 13\\nGrupo: Group L\\nPartido: England vs Ghana\\nMarcador: 0-0\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:England 0-0 Ghana · Matchday 13
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260623T230000Z
+DTEND:20260624T010000Z
+SUMMARY:Panama 0-1 Croatia · Matchday 13
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 13\\nGrupo: Group L\\nPartido: Panama vs Croatia\\nMarcador: 0-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Panama 0-1 Croatia · Matchday 13
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:Panama 0-2 England · Matchday 17
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 17\\nGrupo: Group L\\nPartido: Panama vs England\\nMarcador: 0-2\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Panama 0-2 England · Matchday 17
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-None@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:Croatia 2-1 Ghana · Matchday 17
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Matchday 17\\nGrupo: Group L\\nPartido: Croatia vs Ghana\\nMarcador: 2-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Croatia 2-1 Ghana · Matchday 17
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-73@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260628T190000Z
+DTEND:20260628T210000Z
+SUMMARY:South Africa 0-1 Canada · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: South Africa vs Canada\\nMarcador: 0-1\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:South Africa 0-1 Canada · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-74@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260629T203000Z
+DTEND:20260629T223000Z
+SUMMARY:Germany vs Paraguay · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: Germany vs Paraguay\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Germany vs Paraguay · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-75@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260630T010000Z
+DTEND:20260630T030000Z
+SUMMARY:Netherlands vs Morocco · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: Netherlands vs Morocco\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Netherlands vs Morocco · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-76@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260629T170000Z
+DTEND:20260629T190000Z
+SUMMARY:Brazil vs Japan · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: Brazil vs Japan\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Brazil vs Japan · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-77@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+SUMMARY:France vs Sweden · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: France vs Sweden\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:France vs Sweden · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-78@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260630T170000Z
+DTEND:20260630T190000Z
+SUMMARY:Ivory Coast vs Norway · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: Ivory Coast vs Norway\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Ivory Coast vs Norway · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-79@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260701T010000Z
+DTEND:20260701T030000Z
+SUMMARY:Mexico vs Ecuador · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: Mexico vs Ecuador\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Mexico vs Ecuador · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-80@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260701T160000Z
+DTEND:20260701T180000Z
+SUMMARY:England vs DR Congo · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: England vs DR Congo\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:England vs DR Congo · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-81@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260702T000000Z
+DTEND:20260702T020000Z
+SUMMARY:USA vs Bosnia & Herzegovina · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: USA vs Bosnia & Herzegovina\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:USA vs Bosnia & Herzegovina · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-82@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260701T200000Z
+DTEND:20260701T220000Z
+SUMMARY:Belgium vs Senegal · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: Belgium vs Senegal\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Belgium vs Senegal · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-83@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260702T230000Z
+DTEND:20260703T010000Z
+SUMMARY:Portugal vs Croatia · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: Portugal vs Croatia\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Portugal vs Croatia · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-84@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260702T190000Z
+DTEND:20260702T210000Z
+SUMMARY:Spain vs Austria · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: Spain vs Austria\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Spain vs Austria · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-85@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260703T030000Z
+DTEND:20260703T050000Z
+SUMMARY:Switzerland vs Algeria · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: Switzerland vs Algeria\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Switzerland vs Algeria · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-86@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260703T220000Z
+DTEND:20260704T000000Z
+SUMMARY:Argentina vs Cape Verde · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: Argentina vs Cape Verde\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Argentina vs Cape Verde · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-87@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260704T013000Z
+DTEND:20260704T033000Z
+SUMMARY:Colombia vs Ghana · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: Colombia vs Ghana\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Colombia vs Ghana · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-88@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260703T180000Z
+DTEND:20260703T200000Z
+SUMMARY:Australia vs Egypt · Round of 32
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 32\\nGrupo: -\\nPartido: Australia vs Egypt\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Australia vs Egypt · Round of 32
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-89@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260704T210000Z
+DTEND:20260704T230000Z
+SUMMARY:W74 vs W77 · Round of 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 16\\nGrupo: -\\nPartido: W74 vs W77\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W74 vs W77 · Round of 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-90@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260704T170000Z
+DTEND:20260704T190000Z
+SUMMARY:W73 vs W75 · Round of 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 16\\nGrupo: -\\nPartido: W73 vs W75\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W73 vs W75 · Round of 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-91@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260705T200000Z
+DTEND:20260705T220000Z
+SUMMARY:W76 vs W78 · Round of 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 16\\nGrupo: -\\nPartido: W76 vs W78\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W76 vs W78 · Round of 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-92@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260706T000000Z
+DTEND:20260706T020000Z
+SUMMARY:W79 vs W80 · Round of 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 16\\nGrupo: -\\nPartido: W79 vs W80\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W79 vs W80 · Round of 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-93@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260706T190000Z
+DTEND:20260706T210000Z
+SUMMARY:W83 vs W84 · Round of 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 16\\nGrupo: -\\nPartido: W83 vs W84\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W83 vs W84 · Round of 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-94@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260707T000000Z
+DTEND:20260707T020000Z
+SUMMARY:W81 vs W82 · Round of 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 16\\nGrupo: -\\nPartido: W81 vs W82\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W81 vs W82 · Round of 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-95@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+SUMMARY:W86 vs W88 · Round of 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 16\\nGrupo: -\\nPartido: W86 vs W88\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W86 vs W88 · Round of 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-96@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260707T200000Z
+DTEND:20260707T220000Z
+SUMMARY:W85 vs W87 · Round of 16
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Round of 16\\nGrupo: -\\nPartido: W85 vs W87\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W85 vs W87 · Round of 16
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-97@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260709T200000Z
+DTEND:20260709T220000Z
+SUMMARY:W89 vs W90 · Quarter-final
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Quarter-final\\nGrupo: -\\nPartido: W89 vs W90\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W89 vs W90 · Quarter-final
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-98@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260710T190000Z
+DTEND:20260710T210000Z
+SUMMARY:W93 vs W94 · Quarter-final
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Quarter-final\\nGrupo: -\\nPartido: W93 vs W94\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W93 vs W94 · Quarter-final
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-99@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260711T210000Z
+DTEND:20260711T230000Z
+SUMMARY:W91 vs W92 · Quarter-final
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Quarter-final\\nGrupo: -\\nPartido: W91 vs W92\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W91 vs W92 · Quarter-final
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-100@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260712T010000Z
+DTEND:20260712T030000Z
+SUMMARY:W95 vs W96 · Quarter-final
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Quarter-final\\nGrupo: -\\nPartido: W95 vs W96\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W95 vs W96 · Quarter-final
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-101@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260714T190000Z
+DTEND:20260714T210000Z
+SUMMARY:W97 vs W98 · Semi-final
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Semi-final\\nGrupo: -\\nPartido: W97 vs W98\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W97 vs W98 · Semi-final
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-102@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260715T190000Z
+DTEND:20260715T210000Z
+SUMMARY:W99 vs W100 · Semi-final
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Semi-final\\nGrupo: -\\nPartido: W99 vs W100\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W99 vs W100 · Semi-final
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-103@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260718T210000Z
+DTEND:20260718T230000Z
+SUMMARY:L101 vs L102 · Match for third place
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Match for third place\\nGrupo: -\\nPartido: L101 vs L102\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:L101 vs L102 · Match for third place
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:wc2026-104@diego-calendar
+DTSTAMP:20260629T003354Z
+DTSTART:20260719T190000Z
+DTEND:20260719T210000Z
+SUMMARY:W101 vs W102 · Final
+LOCATION:
+DESCRIPTION:Mundial 2026\\nFase: Final\\nGrupo: -\\nPartido: W101 vs W102\\nMarcador: Pendiente\\nFuente: openfootball/worldcup.json\\nActualizado automáticamente por GitHub Actions.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:W101 vs W102 · Final
+END:VALARM
+END:VEVENT
 
 END:VCALENDAR
