@@ -132,7 +132,14 @@ def extract_matches(data):
 
 
 def build_calendar(matches):
-    events = "\n".join(build_event(m) for m in matches if build_event(m))
+    event_list = []
+
+    for m in matches:
+        event = build_event(m)
+        if event:
+            event_list.append(event)
+
+    events = "\n".join(event_list)
 
     return f"""BEGIN:VCALENDAR
 VERSION:2.0
