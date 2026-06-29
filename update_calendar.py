@@ -25,7 +25,8 @@ def parse_datetime(match):
     if not date:
         return None
 
-    dt = datetime.fromisoformat(f"{date}T{time}:00+00:00")
+    time = str(time).replace(" UTC", "")
+    dt = datetime.fromisoformat(f"{date}T{time}:00")
     return dt
 
 
