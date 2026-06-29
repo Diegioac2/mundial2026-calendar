@@ -29,10 +29,11 @@ jobs:
       - name: Ejecutar actualización
         run: python update_calendar.py
 
-      - name: Guardar cambios
+            - name: Guardar cambios
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add docs/mundial2026.ics
           git commit -m "Actualizar calendario Mundial 2026" || echo "Sin cambios"
+          git pull --rebase --autostash origin main
           git push
