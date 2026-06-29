@@ -20,14 +20,23 @@ def esc(text):
 
 def parse_datetime(match):
     date = match.get("date")
-    time = match.get("time") or "00:00"
+    time = str(match.get("time") or "00:00")
 
     if not date:
         return None
 
-    time = str(time).replace(" UTC", "")
-    dt = datetime.fromisoformat(f"{date}T{time}:00")
-    return dt
+    time = time.replace(" UTC", "")
+
+    if "-" in time[5:] or "+" in time[5:]:
+        base = time[:5]
+        offset = time[5:]
+        sign = offset[0]
+        hours = offset[1:].split(":")[0].zfill(2)
+        minutes = offset[1:].split(":")[1] if ":" in offset[1:] else "00"
+        time = f"{base}{sign}{hours}:{minutes}"
+        return datetime.fromisoformat(f"{date}T{time}")
+
+    return datetime.fromisoformat(f"{date}T{time}:00+00:00")
 
 
 def team_name(team):
